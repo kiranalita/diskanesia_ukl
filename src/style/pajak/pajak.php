@@ -38,22 +38,21 @@
 <body class="min-h-screen bg-gray-50">
     
      <!-- Sub Navigation -->
-    <div class="flex p-6 bg-gray-800 border border-gray-400 rounded-md">
-    <nav class="flex p-2 space-x-1 bg-blue-800 border border-gray-400 rounded-lg">
-        <a href="../kendaraan/kendaraan.php" class="px-4 py-2 font-medium text-black transition-colors border border-gray-400 rounded-md bg-sky-400 hover:bg-slate-600 hover:text-white">
+
+    <nav class="flex p-2 space-x-1 border border-gray-400 rounded-lg bg">
+        <a href="../kendaraan/kendaraan.php" class="px-4 py-2 font-medium text-black transition-colors bg-white border border-gray-400 rounded-md hover:bg-slate-600 hover:text-white">
             Data Kendaraan
         </a>
-        <a href="../users/user.php" class="px-4 py-2 font-medium text-black transition-colors border border-gray-400 rounded-md bg-sky-400 hover:bg-slate-600 hover:text-white">
+        <a href="../users/user.php" class="px-4 py-2 font-medium text-black transition-colors bg-white border border-gray-400 rounded-md hover:bg-slate-600 hover:text-white">
             Data User
         </a>
-        <a href="../petugas/petugas.php" class="px-4 py-2 font-medium text-black transition-colors border border-gray-400 rounded-md bg-sky-400 hover:bg-slate-600 hover:text-white">
+        <a href="../petugassamsat/petugas.php" class="px-4 py-2 font-medium text-black transition-colors bg-white border border-gray-400 rounded-md hover:bg-slate-600 hover:text-white">
             Data Petugas
         </a>
-        <a href="pajak.php" class="px-4 py-2 font-medium text-black transition-colors border border-gray-400 rounded-md bg-sky-400 hover:bg-slate-600 hover:text-white">
+        <a href="pajak.php" class="px-4 py-2 font-medium text-black transition-colors bg-white border border-gray-400 rounded-md hover:bg-slate-600 hover:text-white">
             Data Pajak
         </a>
     </nav>
-</div>
 
     <!-- Navbar -->
     <nav class="p-4 bg-white">
