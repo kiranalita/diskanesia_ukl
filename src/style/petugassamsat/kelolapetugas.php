@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-include 'koneksi.php'; 
+include '../../koneksi.php'; 
              $id_petugas = '';
              $nama_petugas = '';
              $posisi = '';

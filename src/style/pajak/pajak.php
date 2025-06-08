@@ -1,5 +1,5 @@
 <?php
-    include 'koneksipajak.php';
+include '../../koneksi.php';
 
     // Cek koneksi database
     if (!$conn) {

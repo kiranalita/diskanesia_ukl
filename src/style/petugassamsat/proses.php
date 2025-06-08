@@ -1,5 +1,5 @@
 <?php
-include 'koneksi.php';
+include '../../koneksi.php';
 
 if(isset($_POST['aksi'])){
     if($_POST['aksi'] == "add"){

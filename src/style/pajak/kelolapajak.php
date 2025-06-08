@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-include 'koneksipajak.php';
+include '../../koneksi.php';
 
 // Variabel untuk menyimpan data yang akan diedit
 $id_pajak = '';

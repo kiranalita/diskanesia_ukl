@@ -1,6 +1,6 @@
 <?php
 session_start();
-include 'koneksipajak.php';
+include '../../koneksi.php';
 
 // Fungsi untuk membersihkan input
 function cleanInput($data) {
